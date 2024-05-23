@@ -125,6 +125,7 @@ Lending company, or loan company, is a business entity that provides loans to in
 - Matplotlib (3.7.0)
 - Scikit-learn (1.2.1)
 - Scipy (1.10.0)
+- Imbalanced-learn (0.9.1)
   <br>
   <br>
   <br>
